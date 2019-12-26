@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="469597a5-d07b-4bd2-a9ca-263a5e3f4ed7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Christmas/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Christmas/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/listings/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/listings/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/listings/listings.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/listings/listings.html" afterDir="false" />
     </list>
@@ -57,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/listings/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <caret line="8" column="76" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="76" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -68,8 +66,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/listings/listings.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="67" column="39" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
+            <state relative-caret-position="354">
+              <caret line="120" column="25" lean-forward="true" selection-start-line="120" selection-start-column="25" selection-end-line="120" selection-end-column="25" />
+              <folding>
+                <element signature="e#3442#3449#1#HTML" expanded="true" />
+                <element signature="e#3612#3619#1#HTML" expanded="true" />
+                <element signature="e#4367#4374#1#HTML" expanded="true" />
+                <element signature="e#4533#4540#1#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -211,12 +215,12 @@
       <updated>1577290873529</updated>
       <workItem from="1577290882641" duration="1625000" />
       <workItem from="1577301302082" duration="4101000" />
-      <workItem from="1577351328266" duration="7132000" />
+      <workItem from="1577351328266" duration="8502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12858000" />
+    <option name="totallyTimeSpent" value="14228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="697" height="775" extended-state="0" />
@@ -362,15 +366,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/listings/listings.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="67" column="39" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
+        <state relative-caret-position="354">
+          <caret line="120" column="25" lean-forward="true" selection-start-line="120" selection-start-column="25" selection-end-line="120" selection-end-column="25" />
+          <folding>
+            <element signature="e#3442#3449#1#HTML" expanded="true" />
+            <element signature="e#3612#3619#1#HTML" expanded="true" />
+            <element signature="e#4367#4374#1#HTML" expanded="true" />
+            <element signature="e#4533#4540#1#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/listings/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <caret line="8" column="76" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="76" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
