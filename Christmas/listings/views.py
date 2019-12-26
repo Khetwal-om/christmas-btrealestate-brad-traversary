@@ -77,6 +77,7 @@ def search(request):
                'bedroom_choices': bedroom_choices,
                'price_choices': price_choices,
                 'listings':queryset_list,
+                'values':request.GET,
                }
 
     return render(request,'listings/search.html',context)
