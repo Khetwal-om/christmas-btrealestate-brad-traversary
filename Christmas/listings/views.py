@@ -4,6 +4,8 @@ from django.core.paginator import Paginator,EmptyPage,PageNotAnInteger
 # Create your views here.
 from .models import Listing
 
+from listings.choices import price_choices,bedroom_choices,state_choices
+
 
 def index(request):
     listings=Listing.objects.order_by('-list_date').filter(is_published=True)
@@ -23,4 +25,10 @@ def listing(request,listing_id):
 
 
 def search(request):
-    return render(request,'listings/search.html',{})
+    context = {
+               'state_choices': state_choices,
+               'bedroom_choices': bedroom_choices,
+               'price_choices': price_choices
+               }
+
+    return render(request,'listings/search.html',context)
